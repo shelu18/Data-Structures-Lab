@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int r;
     float pi=3.14;
     float c,a;
