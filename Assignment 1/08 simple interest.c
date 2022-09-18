@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
    int p,t;
    float r,s;
    printf("Enter the principle amount:");
