@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     printf("Hello \nTanay Patil\nVijay Nagar\nDewas (MP)");
 
     return 0;
