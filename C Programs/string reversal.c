@@ -6,6 +6,7 @@ int top,stack[max];
 void push(char x){  
   
      
+  
       if(top == max-1){  
           printf("stack overflow");  
       }  else {  
