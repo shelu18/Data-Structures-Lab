@@ -7,7 +7,7 @@ int main()
    printf("Enter the principle amount:");
    scanf("%d",&p);
    printf("Enter the Interest Rate:");
-   scanf("%e",&r);
+   scanf("%f",&r);
    printf("Enter the time:");
    scanf("%d",&t);
    s=p*r*t/100;
